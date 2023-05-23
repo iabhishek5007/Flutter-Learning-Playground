@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       // App bar that displays the app name
       appBar: AppBar(
-        title: const Text("My App"),
+        title: const Text("Catalog App"),
       ),
       // The main body of the home page, which is a centered container with a welcome message
       body: const Center(
